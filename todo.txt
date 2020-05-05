@@ -1,0 +1,10 @@
+install dependencies
+[x] express
+[x] mongoose
+[x] cors
+ - dev 
+[x] nodemon
+
+database
+[ ] setup mongoAtlas
+[ ] 
